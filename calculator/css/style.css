@@ -1,0 +1,10 @@
+.wrapper{
+    margin:0 auto;
+    width:600px;
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+}
+ body {
+     background-color: aqua;
+ }
